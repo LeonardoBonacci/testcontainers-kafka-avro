@@ -1,6 +1,11 @@
 -------------------------------------------------------------------------------------------------------------
 ## DISCLAIMER: Tweaked to use the [Alpakka testkit](https://doc.akka.io/docs/alpakka-kafka/current/testing.html) instead.
 -------------------------------------------------------------------------------------------------------------
+Some resources:
+* https://github.com/testcontainers/testcontainers-java/blob/master/modules/kafka/src/test/java/org/testcontainers/containers/KafkaContainerTest.java
+* https://github.com/testcontainers/testcontainers-java/blob/master/modules/kafka/src/main/java/org/testcontainers/containers/KafkaContainer.java
+* https://github.com/akka/alpakka-kafka/blob/master/tests/src/test/java/docs/javadsl/SchemaRegistrySerializationTest.java
+* https://github.com/akka/alpakka-kafka/tree/34b7660e8291c1baeee6dfbee5d5e9a739667de0/testkit/src/main/java/akka/kafka/testkit/internal
 
 
 
