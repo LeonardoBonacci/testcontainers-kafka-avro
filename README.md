@@ -1,3 +1,9 @@
+-------------------------------------------------------------------------------------------------------------
+## DISCLAIMER: Tweaked to use the [Alpakka testkit](https://doc.akka.io/docs/alpakka-kafka/current/testing.html) instead.
+-------------------------------------------------------------------------------------------------------------
+
+
+
 Production/Consumption of Apache Kafka AVRO messages with testcontainers library
 =======================================================================================
 
